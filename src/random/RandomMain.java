@@ -86,7 +86,7 @@ public class RandomMain {
             if (array[i] < average) {
                 belowAverage++;
 
-            } else  {
+            } else {
                 aboveAverage++;
             }
 
@@ -103,21 +103,6 @@ public class RandomMain {
 
         }
 
-//        public static void reverseOrder(Integer[] tab) {
-//        int firstElement = 0;
-//        int lastElement = tab.length - 1;
-//        while (firstElement < lastElement) {
-//            int temp = tab[firstElement];
-//            tab[firstElement] = tab[lastElement];
-//            tab[lastElement] = temp;
-//            firstElement++;
-//            lastElement--;
-//        }
-//        for (Integer element : tab) {
-//            System.out.print(element + " ");
-//        }
-//
-//    }
 
     }
 
